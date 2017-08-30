@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tallerEmpresaXYZ</string>
+    <string name="genero">Gender</string>
+    <string name="hombre">Men</string>
+    <string name="mujer">Women</string>
+    <string name="adidas">Adidas</string>
+    <string name="clasico">Classic</string>
+    <string name="nike">Nike</string>
+    <string name="puma">Puma</string>
+    <string name="tipoDeZapato">Shoe type</string>
+    <string name="marca">Trademark</string>
+    <string name="zapatilla">sneaker</string>
+    <string name="calcular">Calculate</string>
+    <string name="cantidad">" Quantity"</string>
+    <string name="mensaje_error_uno">Enter an amount greater than 0.</string>
+    <string name="txtCantidad">" "</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">tallerEmpresaXYZ</string>
+    <string name="genero">Genero</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="zapatilla">Zapatilla</string>
+    <string name="clasico">Clásico</string>
+    <string name="marca">Marca</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string name="tipoDeZapato">Tipo de zapato</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="calcular">Calcular</string>
+    <string name="mensaje_error_uno">Ingrese una cantidad valida.</string>
+    <string name="txtCantidad" >" "</string>
+    <string-array name="arrayGenero">
+        <item>@string/hombre</item>
+        <item>@string/mujer</item>
+    </string-array>
+    <string-array name="arrayTipoZapato">
+        <item>@string/zapatilla</item>
+        <item>@string/clasico</item>
+
+    </string-array>
+    <string-array name="arrayMarcas">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+    </string-array>
+</resources>
+
