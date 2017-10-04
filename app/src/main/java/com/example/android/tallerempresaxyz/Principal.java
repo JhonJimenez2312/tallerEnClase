@@ -53,6 +53,7 @@ public class Principal extends AppCompatActivity {
         spinnerMarca.setSelection(0);
     }
 
+
     public void calcular(View v){
         double precioTotal=0.0;
         int opcionGenero,opcionTipoZapato,opcionMarca;
